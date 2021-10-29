@@ -65,3 +65,4 @@ def delete_post(pk):
 
 if __name__ == '__main__':
 	app.run()
+
